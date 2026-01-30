@@ -238,7 +238,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This README is designed to provide clear and structured information about setting up and using the Bank Database. Feel free to extend it as you develop the project further!
 
-```
 
 ### Improvements:
 1. **Clearer Table Structure**: Improved table explanations and added data types for each field (e.g., `DECIMAL(10, 2)` for amounts).
@@ -247,4 +246,4 @@ This README is designed to provide clear and structured information about settin
 4. **Future Enhancements**: Suggested potential improvements for the project like adding customer information, transaction types, and reporting.
 
 This structure is designed to be comprehensive, user-friendly, and easy to extend as your project grows.
-```
+
